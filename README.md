@@ -5,7 +5,7 @@ Toyota's TIS.
 
 ## Setup
 
-This script requires that you download ChromeDriver from http://chromedriver.chromium.org/downloads and place the
+This script requires that you download ChromeDriver from http://chromedriver.chromium.org/downloads or https://googlechromelabs.github.io/chrome-for-testing/ and place the
 executable in this directory. You will also need to initialize a new Chrome user profile at ./user-data and configure
 some settings manually:
 
